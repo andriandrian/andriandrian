@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andriandrian&label=Profile%20views&color=0e75b6&style=flat" alt="andriandrian" /> </p>
 
-- 🌱 I’m currently learning **React, Javascript, Laravel, Pyhton**
+- 🌱 I’m currently learning **React, Javascript, Laravel, Python**
 
 - 📫 How to reach me **andrian.tan184@gmail.com**
 
